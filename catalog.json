@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-09T04:01:08.730Z",
+  "packages": [
+    {
+      "id": "org.streamscope.sample",
+      "version": "1.0.0",
+      "packageUrl": "https://github.com/ZeruneLab/StreamScope-Plugins/releases/download/plugins-2026.10.09.1/org.streamscope.sample-1.0.0-windows-x86_64.ssp",
+      "packageSha256": "sha256:9f016bf564169598aab82f5ad8a73ec245a8a948f0bb659cca38f79f599b2b82",
+      "publisherFingerprint": "sha256:8f1e1ccefc22442539ee9084cd16835ae4e211008a99a130f4dd1263b465bbbf",
+      "hostApi": "^1.0",
+      "os": "windows",
+      "arch": "x86_64"
+    },
+    {
+      "id": "org.streamscope.onvif",
+      "version": "0.2.0",
+      "packageUrl": "https://github.com/ZeruneLab/StreamScope-Plugins/releases/download/plugins-2026.10.09.1/org.streamscope.onvif-0.2.0-windows-x86_64.ssp",
+      "packageSha256": "sha256:83850dc27f73504db7d274dbe7ce73dc674b6c2fd94ff9187f1c75778f26b936",
+      "publisherFingerprint": "sha256:8f1e1ccefc22442539ee9084cd16835ae4e211008a99a130f4dd1263b465bbbf",
+      "hostApi": "^1.0",
+      "os": "windows",
+      "arch": "x86_64"
+    },
+    {
+      "id": "org.streamscope.sip",
+      "version": "0.2.0",
+      "packageUrl": "https://github.com/ZeruneLab/StreamScope-Plugins/releases/download/plugins-2026.10.09.1/org.streamscope.sip-0.2.0-windows-x86_64.ssp",
+      "packageSha256": "sha256:6cd9fa9efb3db6efe174e7a7480f75b73dde80aef87e199c6bc12e6c9437b260",
+      "publisherFingerprint": "sha256:8f1e1ccefc22442539ee9084cd16835ae4e211008a99a130f4dd1263b465bbbf",
+      "hostApi": "^1.2",
+      "os": "windows",
+      "arch": "x86_64"
+    },
+    {
+      "id": "org.streamscope.h264",
+      "version": "0.2.0",
+      "packageUrl": "https://github.com/ZeruneLab/StreamScope-Plugins/releases/download/plugins-2026.10.09.1/org.streamscope.h264-0.2.0-windows-x86_64.ssp",
+      "packageSha256": "sha256:b2f73a1e397d286fd1554bf6865dd543e018a7cca68639c30c5dee17cbb9b414",
+      "publisherFingerprint": "sha256:8f1e1ccefc22442539ee9084cd16835ae4e211008a99a130f4dd1263b465bbbf",
+      "hostApi": "^1.1",
+      "os": "windows",
+      "arch": "x86_64"
+    },
+    {
+      "id": "org.streamscope.h265",
+      "version": "0.2.0",
+      "packageUrl": "https://github.com/ZeruneLab/StreamScope-Plugins/releases/download/plugins-2026.10.09.1/org.streamscope.h265-0.2.0-windows-x86_64.ssp",
+      "packageSha256": "sha256:9cb4f3901a1ed81ddd8e88a89b72a227d32fa1078a84b3b1e0254306e60bce0b",
+      "publisherFingerprint": "sha256:8f1e1ccefc22442539ee9084cd16835ae4e211008a99a130f4dd1263b465bbbf",
+      "hostApi": "^1.1",
+      "os": "windows",
+      "arch": "x86_64"
+    },
+    {
+      "id": "org.streamscope.audio",
+      "version": "0.2.0",
+      "packageUrl": "https://github.com/ZeruneLab/StreamScope-Plugins/releases/download/plugins-2026.10.09.1/org.streamscope.audio-0.2.0-windows-x86_64.ssp",
+      "packageSha256": "sha256:c61112db2750fe3994f1754fa07a940ae2c05d888123ea4afa4f709558adf065",
+      "publisherFingerprint": "sha256:8f1e1ccefc22442539ee9084cd16835ae4e211008a99a130f4dd1263b465bbbf",
+      "hostApi": "^1.2",
+      "os": "windows",
+      "arch": "x86_64"
+    },
+    {
+      "id": "org.streamscope.rtsp",
+      "version": "0.2.0",
+      "packageUrl": "https://github.com/ZeruneLab/StreamScope-Plugins/releases/download/plugins-2026.10.09.1/org.streamscope.rtsp-0.2.0-windows-x86_64.ssp",
+      "packageSha256": "sha256:eb995ea732e1a7bbfc7e22ca694a502aa6ae1d61476460e3a5481249443620b9",
+      "publisherFingerprint": "sha256:8f1e1ccefc22442539ee9084cd16835ae4e211008a99a130f4dd1263b465bbbf",
+      "hostApi": "^1.1",
+      "os": "windows",
+      "arch": "x86_64"
+    },
+    {
+      "id": "org.streamscope.pcap",
+      "version": "0.2.0",
+      "packageUrl": "https://github.com/ZeruneLab/StreamScope-Plugins/releases/download/plugins-2026.10.09.1/org.streamscope.pcap-0.2.0-windows-x86_64.ssp",
+      "packageSha256": "sha256:636d64953c55bf979ec8da692e9983d5565a3b3847cc4d22df1954ba510d2995",
+      "publisherFingerprint": "sha256:8f1e1ccefc22442539ee9084cd16835ae4e211008a99a130f4dd1263b465bbbf",
+      "hostApi": "^1.0",
+      "os": "windows",
+      "arch": "x86_64"
+    },
+    {
+      "id": "org.streamscope.video-deep",
+      "version": "0.2.0",
+      "packageUrl": "https://github.com/ZeruneLab/StreamScope-Plugins/releases/download/plugins-2026.10.09.1/org.streamscope.video-deep-0.2.0-windows-x86_64.ssp",
+      "packageSha256": "sha256:a95bdfa2e1ae2a602d927120c8e2fae854e12f260fba16ae8850b6408b7d4d6f",
+      "publisherFingerprint": "sha256:8f1e1ccefc22442539ee9084cd16835ae4e211008a99a130f4dd1263b465bbbf",
+      "hostApi": "^1.2",
+      "os": "windows",
+      "arch": "x86_64"
+    },
+    {
+      "id": "org.streamscope.ffmpeg",
+      "version": "7.1.1",
+      "packageUrl": "https://github.com/ZeruneLab/StreamScope-Plugins/releases/download/plugins-2026.10.09.1/org.streamscope.ffmpeg-7.1.1-windows-x86_64.ssp",
+      "packageSha256": "sha256:f04570dfd70093fabdbaabfdcb3cb75b381fa9c5b947493fc3499ce9d6b36b4c",
+      "publisherFingerprint": "sha256:8f1e1ccefc22442539ee9084cd16835ae4e211008a99a130f4dd1263b465bbbf",
+      "hostApi": "^1.0",
+      "os": "windows",
+      "arch": "x86_64"
+    }
+  ]
+}
