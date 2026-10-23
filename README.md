@@ -2,6 +2,17 @@
 
 为 [StreamScope](https://github.com/ZeruneLab/StreamScope) 提供独立发布的签名功能插件及共享运行时。面向 Windows x64，用户下载和安装不需要 GitHub 登录。
 
+## 最新媒体插件：v0.2.2
+
+批次 [`plugins-2026.10.23.1`](https://github.com/ZeruneLab/StreamScope-Plugins/releases/tag/plugins-2026.10.23.1) 更新音频、H.264、H.265、PCAP、RTSP 和视频深度分析六个插件，建议配合核心宿主 [v0.2.5](https://github.com/ZeruneLab/StreamScope/releases/tag/v0.2.5) 使用。
+
+- 修正诊断证据分类、帧率来源、长 GOP / HRD / 近静音的判断与展示，保留真实中途解码异常。
+- RTSP 插件修复 H.264 限时停止时尾部孤立 SEI 引起的人为解码错误，原始证据不变；解码副本记录排除范围。
+- 六个媒体插件统一从本地测试版升级至 v0.2.2，不覆盖同版本包。发布者密钥和权限不变；SIP、ONVIF、示例和 FFmpeg 不重发。
+- 先更新主程序，再在插件管理页批量更新媒体插件。核心安装包不包含或自动替换独立业务插件，旧报告也不会自动改变结论。
+
+签名目录保留旧公开版本，并把新版本放在同一插件的旧版本之前；旧 Release 和资产不删除。新批次 Release 同时提供签名目录快照与 SHA-256 文件，便于离线核验。
+
 ## 安装
 
 安装 StreamScope v0.2.0 或更高版本，在“插件管理”点击“检查官方插件目录”，按需选择功能并确认发布者、权限和原生代码风险。媒体功能会安装共享 FFmpeg 运行时，无需单独配置系统 FFmpeg。
